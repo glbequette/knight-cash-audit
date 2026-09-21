@@ -54,6 +54,5 @@ Exact Step 4 prompt used to close a missed branch:
 
 ## GitHub Link
 
-**Repository:** Replace this text with the GitHub repository URL after uploading
-the project, for example: `https://github.com/YOUR-USERNAME/knight-cash-audit`
+https://github.com/glbequette/knight-cash-audit
 
